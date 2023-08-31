@@ -6,10 +6,10 @@
 jar包名称修改，pom.xml中8、9行：
 <artifactId>cnrt-jni</artifactId>
 <version>1.0-SNAPSHOT</version>
-```
+
 
 1.2、多线程
-```shell
+
 修改pom.xml中57行此处为程序主入口为CnrtNet.Test_multi_cnrt
 jar包名称修改，pom.xml中8、9行：
 <artifactId>cnrt-multi-jni</artifactId>
